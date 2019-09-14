@@ -1,0 +1,12 @@
+name: ICO_ShinyApp
+title: ICO_ShinyApp
+username:
+account: venkat-ds
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 997706
+bundleId: 2178049
+url: https://venkat-ds.shinyapps.io/ICO_ShinyApp/
+when: 1561492694.59548
+asMultiple: FALSE
+asStatic: FALSE
